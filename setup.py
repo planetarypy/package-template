@@ -2,13 +2,13 @@
 
 from distutils.core import setup
 setup(
-    name='cookiecutter-pypackage',
+    name='package-template',
     packages=[],
     version='0.1.0',
-    description='Cookiecutter template for a Python package',
-    author='Audrey Roy Greenfeld',
+    description='Cookiecutter template for a PlanetaryPy package',
+    author='PlanetaryPy Developers',
     license='BSD',
-    author_email='aroy@alum.mit.edu',
+    author_email='somedev@example.com',
     url='https://github.com/audreyr/cookiecutter-pypackage',
     keywords=['cookiecutter', 'template', 'package', ],
     python_requires='>=3.5',

@@ -7,6 +7,10 @@ Contributing
 Contributions are welcome, and they are greatly appreciated! Every little bit
 helps, and credit will always be given.
 
+For a high-level overview of the philosophy of contributions to PlanetaryPy,
+which applies to this project, please see
+https://github.com/planetarypy/TC/blob/master/Contributing.md.
+
 You can contribute in many ways:
 
 Types of Contributions

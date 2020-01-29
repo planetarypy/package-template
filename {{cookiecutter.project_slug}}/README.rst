@@ -27,6 +27,7 @@
 {% if is_open_source %}
 * Free software: {{ cookiecutter.open_source_license }}
 * Documentation: https://{{ cookiecutter.project_slug | replace("_", "-") }}.readthedocs.io.
+* `PlanetaryPy`_ Affiliate Package.
 {% endif %}
 
 Features
@@ -34,10 +35,12 @@ Features
 
 * TODO
 
-Credits
--------
+Contributing
+------------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+Feedback, issues, and contributions are always gratefully welcomed. See the
+contributing guide for details on how to help and setup a development
+environment.
 
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+.. _PlanetaryPy: https://github.com/planetarypy
